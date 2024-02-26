@@ -1,0 +1,39 @@
+#Python is a general purpose programming Language that is interpreted dynamic and has garbage collecttion. it follows
+#an OOP paradigm.
+#General purpose: it an be used for many other things
+#code checking for an interpreted languange is done during run time .
+#compilation mesans the number woukd be into byte codebut in case ofpython, it is intepreted not compiled
+#python is loosely typed.
+#garbage collection: by declaring a variable, you have opened up a memeory in your ram. if in your #operations you are not mking reference to the declare3d variable. so python garabage collects it so it #doesnt take space.
+#different paradigm in programning: We have procedural, functional and class
+#There a r 2 data types in python: Primitive and Non-Primitive
+#primitive data types are- strings, integers, floats, boolean
+#strings: Are combinations of different characters. Note that Python considers only ASCII characters(Amercan Standard for Code Information Interchange).
+#examples of operations in strings
+#strings are operated while enclosed in a single or double quote.
+#For example print("sister tolu") is the same thing as print('sister tolu')
+#string is best worked on can be regarded as best practices if it is stored in a variable. 
+
+#methods on strings, these are functions that are used to manipulate strings.
+#1. Len Method: this is used to check the size or length of a astring
+#2. Lower method. This is used to convert all casing to lower in string 
+#3. Upper method. This is used to convert all casing to upper in string 
+#4. Title Method: This is used to convert every 1st alphabet to uppercase
+#5, Capitalized method: This is used to change the 1st alphabet to upper case.
+
+#integers
+#iNTEGERS are whole numbers without decimal points..They are also known as non-floating point number
+#Operators on integers
+#+ for addition
+#-for substraction 
+#/for division
+#% for modulus
+#*for multiplication
+#**for  raise to the power
+
+#== is for comparison
+#= is for 
+
+#simulate a program with Python that prints out sister Tolu receive 3.50 naira change. Note that sister tolu bought
+# a product from a super store. You can name the product tooth paste and she pays 100 naira and receieve 3.50 naira change
+
