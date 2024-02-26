@@ -1,10 +1,10 @@
 #Python is a general purpose programming Language that is interpreted dynamic and has garbage collecttion. it follows
 #an OOP paradigm.
-#General purpose: it an be used for many other things
+#General purpose: it can be used for many other things
 #code checking for an interpreted languange is done during run time .
-#compilation mesans the number woukd be into byte codebut in case ofpython, it is intepreted not compiled
+#compilation means the number would be stepped down into byte code but in case of python, it is intepreted not compiled
 #python is loosely typed.
-#garbage collection: by declaring a variable, you have opened up a memeory in your ram. if in your #operations you are not mking reference to the declare3d variable. so python garabage collects it so it #doesnt take space.
+#garbage collection: by declaring a variable, you have opened up a memeory in your ram. if in your #operations you are not making reference to the declared variable. so python garabage collects it so it #doesnt take space.
 #different paradigm in programning: We have procedural, functional and class
 #There a r 2 data types in python: Primitive and Non-Primitive
 #primitive data types are- strings, integers, floats, boolean
